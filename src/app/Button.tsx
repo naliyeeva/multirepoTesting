@@ -1,4 +1,4 @@
-export default function Home() {
+export default function Button() {
   return (
     <button style={{ backgroundColor: "green", color: "white" }}>
       Shared button!
